@@ -19,7 +19,7 @@ Dự án hỗ trợ quản lý phim, lịch chiếu, đặt vé, in hóa đơn v
 
 - **Ngôn ngữ**: Java
 - **IDE**: IntelliJ IDEA / Eclipse (có file cấu hình `.idea`, `.project`)
-- **Database**: T-SQL / File txt
+- **Database**: SQL SERVER
 - **Thư viện**: Có thư mục `Libraries`
 
 ## Cấu trúc thư mục
