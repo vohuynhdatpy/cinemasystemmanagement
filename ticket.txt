@@ -1,0 +1,9 @@
+Tên phim: Mission Impossible
+Đạo diễn: Brian De Palma
+Thể loại: Hành Động
+Thời lượng: 110
+Phòng chiếu: PCP01
+Chỗ ngồi: C05
+Tên khách hàng: Mãnh
+Số điện thoại: 123
+Tổng tiền: 60000.0 VND
